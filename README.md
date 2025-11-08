@@ -23,7 +23,7 @@ This project was completed in **three main stages** for a complete data analysis
 ### 🔹 3️⃣ Data Cleaning and Visualization in Power BI
 - Imported the dataset into **Power BI Power Query Editor**.  
 - Cleaned and transformed the data by:
-  - Replacing the wrong value in item fat content column
+  - Replacing the error value with correct in item fat content column
   - Changing data types  
   - Creating calculated measures  
 - Designed an **interactive Power BI dashboard** using visuals such as bar charts, donut charts, line charts, and KPIs.  
@@ -71,7 +71,7 @@ Interactive filters allow users to analyze data by:
 ---
 
 ## 🖼️ Dashboard Preview
-![Blinkit Sales Dashboard](2381e2f2-a22c-4959-9ef3-26169662281a.png)
+![Blinkit Sales Dashboard](blinkit_dashboard_preview.jpg)
 
 ---
 
